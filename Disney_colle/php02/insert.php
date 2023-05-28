@@ -2,7 +2,7 @@
 //1. POSTデータ取得
 //$name = filter_input( INPUT_GET, ","name" ); //こういうのもあるよ
 //$email = filter_input( INPUT_POST, "email" ); //こういうのもあるよ
-
+// test
 $year    =$_POST["year"];
 $place   =$_POST["place"];
 $category=$_POST["category"];
